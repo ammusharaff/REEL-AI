@@ -1,8 +1,9 @@
 from pydantic_settings import BaseSettings
+import os
 
 class Settings(BaseSettings):
     APP_NAME: str = "REEL_AI-MVP"
-    JWT_SECRET: str = "CHANGE_ME_SUPER_SECRET"
+    JWT_SECRET: str = os.getenv("JWT_SECRET", "dev-only-change-me")
     JWT_ALG: str = "HS256"
     ACCESS_TOKEN_MINUTES: int = 60 * 24 * 7  # 7 days
 
