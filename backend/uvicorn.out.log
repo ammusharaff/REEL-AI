@@ -1,0 +1,13 @@
+INFO:     127.0.0.1:58697 - "OPTIONS /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:21473 - "OPTIONS /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:22947 - "OPTIONS /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:13698 - "OPTIONS /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32461 - "OPTIONS /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:12980 - "OPTIONS /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58697 - "OPTIONS /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32461 - "OPTIONS /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58697 - "OPTIONS /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32461 - "OPTIONS /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58697 - "OPTIONS /auth/signup HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32407 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64232 - "GET /health HTTP/1.1" 200 OK

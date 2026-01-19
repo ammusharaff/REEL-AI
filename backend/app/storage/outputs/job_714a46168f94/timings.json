@@ -1,0 +1,52 @@
+[
+  {
+    "text": "Say",
+    "offset": 1000000,
+    "duration": 3875000
+  },
+  {
+    "text": "something",
+    "offset": 5000000,
+    "duration": 5000000
+  },
+  {
+    "text": "powerful",
+    "offset": 10125000,
+    "duration": 4625000
+  },
+  {
+    "text": "in",
+    "offset": 14875000,
+    "duration": 1375000
+  },
+  {
+    "text": "Indian",
+    "offset": 16375000,
+    "duration": 3500000
+  },
+  {
+    "text": "English",
+    "offset": 20000000,
+    "duration": 4000000
+  },
+  {
+    "text": "for",
+    "offset": 24125000,
+    "duration": 1625000
+  },
+  {
+    "text": "a",
+    "offset": 25875000,
+    "duration": 500000
+  },
+  {
+    "text": "short",
+    "offset": 26500000,
+    "duration": 3875000
+  },
+  {
+    "text": "reel",
+    "offset": 30500000,
+    "duration": 3500000
+  }
+]

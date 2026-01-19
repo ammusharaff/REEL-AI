@@ -1,0 +1,17 @@
+[
+  {
+    "text": "Say",
+    "offset": 1000000,
+    "duration": 3875000
+  },
+  {
+    "text": "HI",
+    "offset": 5000000,
+    "duration": 2750000
+  },
+  {
+    "text": "HELLO",
+    "offset": 7875000,
+    "duration": 4375000
+  }
+]

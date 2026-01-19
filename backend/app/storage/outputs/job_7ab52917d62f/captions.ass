@@ -1,0 +1,16 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,46,&H00FFFFFF,&H0000FFFF,&H00000000,&H64000000,1,0,3,3,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Text
+
+Dialogue: 0,0:00:00.00,0:00:01.35,Default,{\pos(540,1661)}{\k38}Say {\k50}something {\k46}powerful
+Dialogue: 0,0:00:01.35,0:00:02.25,Default,{\pos(540,1661)}{\k15}in {\k35}Indian {\k40}English
+Dialogue: 0,0:00:02.25,0:00:02.95,Default,{\pos(540,1661)}{\k16}for {\k15}a {\k38}short

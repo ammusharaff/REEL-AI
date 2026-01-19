@@ -1,0 +1,11 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,52,&H00FFFFFF,&H0000FFFF,&H00000000,&H64000000,1,0,3,3,0,2,60,60,120,1
+
+[Events]
+Format: Layer, Start, End, Style, Text
