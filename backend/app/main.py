@@ -65,7 +65,8 @@ def signup(payload: SignupIn, db: Session = Depends(get_db)):
     db.refresh(u)
 
     token = create_access_token(u.id)
-    return {"token": token, "credits": u.credits}
+    return {"access_token": token, "credits": u.credits}
+
 
 @app.post("/auth/login")
 def login(payload: LoginIn, db: Session = Depends(get_db)):
@@ -74,7 +75,8 @@ def login(payload: LoginIn, db: Session = Depends(get_db)):
         raise HTTPException(status_code=401, detail="Invalid credentials")
 
     token = create_access_token(u.id)
-    return {"token": token, "credits": u.credits}
+    return {"access_token": token, "credits": u.credits}
+
 
 @app.get("/me")
 def me(user: User = Depends(get_current_user)):
